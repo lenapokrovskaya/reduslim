@@ -428,3 +428,9 @@ select::after {
     width: 116px!important;
   }
 }
+
+@media (min-width: 1280px) {
+  .dd-options {
+    width: 114px!important;
+  }
+}
